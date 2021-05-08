@@ -1,6 +1,6 @@
 # Skin-Lesion-Segmentation-in-TensorFlow-2.0
 
-This repository contains the code for semantic segmentation of the skin lesions on the ISIC-2018 dataset.
+This repository contains the code for semantic segmentation of the skin lesions on the ISIC-2018 dataset using TensorFlow 2.0 framework.
 The following models are used:
 - UNET
 

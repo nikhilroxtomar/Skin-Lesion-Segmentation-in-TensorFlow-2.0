@@ -2,7 +2,7 @@
 
 This repository contains the code for semantic segmentation of the skin lesions on the ISIC-2018 dataset using TensorFlow 2.0 framework.
 The following models are used:
-- UNET
+- [UNET](https://arxiv.org/abs/1505.04597)
 
 Models to be used in future:
 - RESUNET
